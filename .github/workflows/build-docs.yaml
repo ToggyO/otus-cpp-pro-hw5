@@ -18,10 +18,6 @@ jobs:
           working-directory: .
           doxyfile-path: ./Doxyfile
 
-      - run: 'pwd'
-      - run: 'ls -la documentation'
-      - run: 'ls -la documentation/html'
-
       # Deploy the HTML documentation to GitHub pages
       - name: GH Pages deployment
         uses: peaceiris/actions-gh-pages@v3
