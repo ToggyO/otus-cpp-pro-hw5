@@ -1,4 +1,4 @@
-name: 'OTUS C++ HW4 CI'
+name: 'OTUS C++ HW5 CI'
 
 on:
   push:
