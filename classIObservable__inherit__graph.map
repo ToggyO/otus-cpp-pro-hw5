@@ -1,0 +1,5 @@
+<map id="IObservable" name="IObservable">
+<area shape="rect" id="node1" title="Represents observable pattern interface." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node2" href="$classIDocument.html" title="Represents editor document model interface." alt="" coords="9,80,94,107"/>
+<area shape="rect" id="node3" href="$classDocument.html" title="Represents editor document model implementation." alt="" coords="11,155,92,181"/>
+</map>

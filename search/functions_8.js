@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['open_96',['open',['../classIDocument.html#ad4ea065b8e1f4fc9720320776c551ed1',1,'IDocument::open()'],['../classDocument.html#ac4c32c859a6b6396e569f7776b19fd0b',1,'Document::open()']]],
+  ['operator_3d_97',['operator=',['../classCircle.html#a2067c595933e8313ea1baf8ee19545f4',1,'Circle::operator=(const Circle &amp;)=delete'],['../classCircle.html#a1caaf9a6c04a9bc328967424d96f7fad',1,'Circle::operator=(Circle &amp;&amp;)=default'],['../classController.html#a0a608678faa069a91f3e5f0483b740a0',1,'Controller::operator=(const Controller &amp;)=delete'],['../classController.html#a0604c78da4bb25e34014c383a70f1030',1,'Controller::operator=(Controller &amp;&amp;)=default'],['../classDocument.html#af3a5494075985e3d1184ef53fee70a09',1,'Document::operator=(const Document &amp;)=delete'],['../classDocument.html#ab642c998d9f383a6a8490a62efd6625c',1,'Document::operator=(Document &amp;&amp;)=default'],['../classEditor.html#abc2fb4a5b6c770f06827a8b912bae205',1,'Editor::operator=(const Editor &amp;)=delete'],['../classEditor.html#a72d5158566cf92970f69dc0165e32bab',1,'Editor::operator=(Editor &amp;&amp;)=default']]]
+];

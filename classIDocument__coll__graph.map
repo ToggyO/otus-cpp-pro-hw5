@@ -1,0 +1,5 @@
+<map id="IDocument" name="IDocument">
+<area shape="rect" id="node1" title="Represents editor document model interface." alt="" coords="96,80,181,107"/>
+<area shape="rect" id="node2" href="$classIEditableDocument.html" title="Represents editor document model interface with possibility to manage drawable objects." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node3" href="$classIObservable.html" title="Represents observable pattern interface." alt="" coords="161,5,253,32"/>
+</map>

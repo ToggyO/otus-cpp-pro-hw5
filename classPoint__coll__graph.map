@@ -1,0 +1,4 @@
+<map id="Point" name="Point">
+<area shape="rect" id="node1" title="Represents a simple point shape." alt="" coords="11,80,63,107"/>
+<area shape="rect" id="node2" href="$classIShape.html" title="Represents editor shape interface." alt="" coords="5,5,68,32"/>
+</map>

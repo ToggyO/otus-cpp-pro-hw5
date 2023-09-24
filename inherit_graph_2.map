@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classIEditableDocument.html" title="Represents editor document model interface with possibility to manage drawable objects." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$classIDocument.html" title="Represents editor document model interface." alt="" coords="184,31,269,57"/>
+<area shape="rect" id="node3" href="$classDocument.html" title="Represents editor document model implementation." alt="" coords="317,31,399,57"/>
+<area shape="rect" id="node4" href="$classIObservable.html" title="Represents observable pattern interface." alt="" coords="25,56,117,83"/>
+</map>

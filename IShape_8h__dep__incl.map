@@ -1,0 +1,16 @@
+<map id="domain/IShape.h" name="domain/IShape.h">
+<area shape="rect" id="node1" title=" " alt="" coords="516,5,635,32"/>
+<area shape="rect" id="node2" href="$IEditableDocument_8h.html" title=" " alt="" coords="311,80,498,107"/>
+<area shape="rect" id="node11" href="$circle_8h.html" title=" " alt="" coords="723,229,831,256"/>
+<area shape="rect" id="node13" href="$point_8h.html" title=" " alt="" coords="523,155,628,181"/>
+<area shape="rect" id="node3" href="$IDocument_8h.html" title=" " alt="" coords="221,155,362,181"/>
+<area shape="rect" id="node4" href="$controller_8h.html" title=" " alt="" coords="298,229,429,256"/>
+<area shape="rect" id="node7" href="$document_8h.html" title=" " alt="" coords="5,229,140,256"/>
+<area shape="rect" id="node9" href="$editor_8h.html" title=" " alt="" coords="165,229,274,256"/>
+<area shape="rect" id="node5" href="$controller_8cpp.html" title=" " alt="" coords="591,304,712,331"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title=" " alt="" coords="315,304,411,331"/>
+<area shape="rect" id="node8" href="$document_8cpp.html" title=" " alt="" coords="10,304,135,331"/>
+<area shape="rect" id="node10" href="$editor_8cpp.html" title=" " alt="" coords="169,304,269,331"/>
+<area shape="rect" id="node12" href="$circle_8cpp.html" title=" " alt="" coords="736,304,881,331"/>
+<area shape="rect" id="node14" href="$point_8cpp.html" title=" " alt="" coords="504,229,647,256"/>
+</map>

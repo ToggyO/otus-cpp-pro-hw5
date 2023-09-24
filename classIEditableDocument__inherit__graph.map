@@ -1,0 +1,5 @@
+<map id="IEditableDocument" name="IEditableDocument">
+<area shape="rect" id="node1" title="Represents editor document model interface with possibility to manage drawable objects." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$classIDocument.html" title="Represents editor document model interface." alt="" coords="28,80,113,107"/>
+<area shape="rect" id="node3" href="$classDocument.html" title="Represents editor document model implementation." alt="" coords="30,155,111,181"/>
+</map>
