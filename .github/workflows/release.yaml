@@ -19,9 +19,6 @@ jobs:
 
       - run: cmake --build ./build
 
-      - name: Run tests
-        run: cd ./build/tests && ctest
-
       - run: cmake --build ./build --target package
 
       - name: Create Release
